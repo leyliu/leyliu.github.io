@@ -1,1 +1,23 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1590230712128" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1235" width="32" height="32" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"></style></defs><path d="M512 0c89.984 0 332.8 413.6192 332.8 575.2832 0 168.832-135.3472 307.2-307.2 319.7696v104.576c0 13.4656-11.4688 24.3712-25.6 24.3712-13.1328 0-23.9616-9.4208-25.4208-21.5296L486.4 999.6288v-104.5504c-171.8272-12.5952-307.2-150.9632-307.2-319.7952C179.2 413.6192 422.016 0 512 0zM243.0464 500.1728C234.8544 529.2544 230.4 554.7776 230.4 575.2832c0 141.568 112.4864 257.792 256 270.2592v-166.784z m537.9072 0L537.6 678.7328v166.8096c141.0816-12.2368 252.16-124.7488 255.8976-263.0144l0.1024-7.2448c0-20.5056-4.4544-46.0288-12.6464-75.1104zM342.784 274.944c-34.8672 61.7984-63.616 122.2912-83.3024 175.3088L486.4 616.7296v-198.1952z m338.3808 0L537.6 418.5088v198.2208l226.8928-166.4768c-19.712-53.0176-48.4352-113.5104-83.3024-175.3088zM486.4 68.8896c-28.288 29.44-73.3696 89.2928-116.8128 160.384l-2.048 3.4048c1.6128 0.768 3.1744 1.7152 4.6336 2.8416l2.304 2.048L486.4 349.44z m51.1744 0V349.44l111.8976-111.872 2.304-2.048a24.2688 24.2688 0 0 1 4.6592-2.8416c-44.032-72.5504-90.112-133.888-118.8608-163.7632z" fill="#707070" p-id="1236"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 512 512"
+   viewBox="0 0 512 512"
+   height="512px"
+   width="512px"
+   y="0px"
+   x="0px"
+   id="NexT"
+   version="1.1"><metadata
+     id="metadata3390"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3388" /><path
+     style="fill:#222222;fill-opacity:1"
+     id="path3384"
+     d="M 256.4,25.8 56.4,141.3 56,371.5 255.6,486.2 455.6,370.7 456,140.5 Z m 92.6,328.8 -18.4,10.7 -18.6,-11 0,0 -112,-142.3 0,142.6 -18.4,10.7 -18.6,-11 0,-197 18.5,-10.6 18.5,10.8 0,0 112,144.5 0,-144.6 18.5,-10.6 18.5,10.8 z" /></svg>
